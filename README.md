@@ -1,1 +1,1 @@
-# Chess RL Project
+# Chess Reinforcement Learning (Finalized)
