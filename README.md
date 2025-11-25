@@ -1,1 +1,1 @@
-# Chess Reinforcement Learning (Finalized)
+# Chess Reinforcement Learning (Deep Q Network Version)
