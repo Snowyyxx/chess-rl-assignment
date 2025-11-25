@@ -1,1 +1,1 @@
-# Chess RL Project
+# Chess RL Project - Deep Q Network Version
